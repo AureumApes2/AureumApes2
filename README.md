@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AreumApes
+- 👋 Hi, I’m AureumApes
 - 👀 This is my second account.
 Look up [here](https://github.com/AureumApes)
 <!---
